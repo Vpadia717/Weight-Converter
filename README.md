@@ -21,7 +21,7 @@ Toast.makeText(MainActivity.this, "Your Weight in pound is " + pound + ".", Toas
 ```
 
 Reference Images : <br>
-	<br>![alt text](app/src/main/res/drawable/ss.jpg)
+	<br><img src="app/src/main/res/drawable/ss.jpg" alt="drawing" width="300" height="500"/>
 
 This is the README file for Weight Converter repository. [^1]
 
